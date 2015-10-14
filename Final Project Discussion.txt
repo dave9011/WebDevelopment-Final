@@ -1,0 +1,34 @@
+
+Technique #1:
+
+	1. The technique is called: 'Seamless Responsive Photo Grid' (https://css-tricks.com/seamless-responsive-photo-grid/).
+	2. I've seen this technique used in a few sites over the past year and I've always wanted to know how to 
+		implement it. I plan to use it for my portfolio/projects section and any other page were I want to put 
+		a gallery.
+	3. This technique uses only CSS.
+	4. The idea behind the technique is briefly explained and a short example is also included.
+	5. According to the website, it works from: Firefox 3.6+, Opera 11.1+, Safari 4+, Chrome 10+, and IE10+.
+	6. I intend to use this technique in my project.
+	
+Technique #2:
+
+	1. The technique is called: 'Bouncy Animated Loading Animation' (https://css-tricks.com/snippets/css/bouncy-animated-loading-animation/).
+	2. I wanted to find a technique that uses only CSS to show a loading animation so that I don't have to use a GIF. I would use this tehcnique 
+		to show the loading animation for the web page and/or any images I include.
+	3. This technique uses only CSS.
+	4. A snippet of code is included in the resource, as well as link to an example on JSFiddle.
+	5. Is it not specified in the website where I got it from, but the snippet uses CSS3 animations which at the moment work in: Chrome, Firefox 5+,
+		IE 10+, Opera 12+, and Safari 4+.
+	6. I doubt I will use this technique.
+	
+Technique #3;
+
+	1. The technique is called: 'Random Hex Color' (https://css-tricks.com/snippets/javascript/random-hex-color/).
+	2. The example used the technique to generate a random background color for the page on reload. I thought this would be a pretty 
+		interesting idea to use, whether it be for the background color or some other element(s).
+	3. This technique uses JavaScript.
+	4. The page itself only contains the line of code that gets the random color. I had to look to use 'Inspect Element' to look at the script 
+		code in order to see how it works.
+	5. The technique should work on any site that allows JavaScript.
+	6. I'm not sure where I would use this technique. If I find a good place for it and it looks good then I'll use it.
+	
